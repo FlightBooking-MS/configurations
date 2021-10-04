@@ -1,1 +1,5 @@
-something: something from admin-ms
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/admindb
+    username: flightuser
+    password: flightpassword
